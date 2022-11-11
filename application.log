@@ -1,0 +1,12 @@
+2022-11-04 23:36:36,242  INFO [main] swagLabsDemoProject:53 - username enter
+2022-11-04 23:36:36,345  INFO [main] swagLabsDemoProject:56 - password
+2022-11-04 23:36:36,688  INFO [main] swagLabsDemoProject:59 - click
+2022-11-04 23:36:37,162  INFO [main] swagLabsDemoProject:68 - browser close
+2022-11-04 23:45:27,982  INFO [main] swagLabsDemoProject:53 - username enter
+2022-11-04 23:45:28,076  INFO [main] swagLabsDemoProject:56 - password
+2022-11-04 23:45:28,196  INFO [main] swagLabsDemoProject:59 - click
+2022-11-04 23:45:30,939  INFO [main] swagLabsDemoProject:68 - browser close
+2022-11-10 22:53:48,506  INFO [main] swagLabsDemoProject:53 - username enter
+2022-11-10 22:53:48,590  INFO [main] swagLabsDemoProject:56 - password
+2022-11-10 22:53:48,731  INFO [main] swagLabsDemoProject:59 - click
+2022-11-10 22:53:49,473  INFO [main] swagLabsDemoProject:68 - browser close
