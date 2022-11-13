@@ -29,7 +29,7 @@ public class TestBaseClass
 	{
 		if(BrowserName.equals("chrome"))
 		{
-	System.setProperty("webdriver.chrome.driver","C:\\chromedriver_win32\\chromedriver.exe" );
+	System.setProperty("webdriver.chrome.driver","C:\\chrome driver\\chromedriver.exe" );
 		
 	driver=new ChromeDriver();
 	//driver.get("https://www.saucedemo.com/");
